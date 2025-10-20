@@ -7,3 +7,7 @@ App Running
 Create a new task
 ![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/4c89cbecadfd25e3af7fd57ea7ef7b4fcc06721d/Screenshot%20(186).png)
 
+Task Created
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/fe6c9b4dbca345cec9e1235781d9984b5676242b/Screenshot%20(187).png)
+
+
