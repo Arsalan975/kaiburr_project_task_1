@@ -1,0 +1,10 @@
+com\example\taskrunner\service\CommandValidator.class
+com\example\taskrunner\service\TaskService.class
+com\example\taskrunner\model\TaskExecution.class
+com\example\taskrunner\service\TaskRunner.class
+com\example\taskrunner\model\Task.class
+com\example\taskrunner\service\LocalShellTaskRunner.class
+com\example\taskrunner\TaskRunnerApplication.class
+com\example\taskrunner\repo\TaskRepository.class
+com\example\taskrunner\service\TaskService$NotFound.class
+com\example\taskrunner\api\TaskController.class
