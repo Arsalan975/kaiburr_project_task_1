@@ -10,4 +10,23 @@ Create a new task
 Task Created
 ![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/fe6c9b4dbca345cec9e1235781d9984b5676242b/Screenshot%20(187).png)
 
+Getting all the tasks
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(244).png)
 
+Getting the task by IDs
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(245).png)
+
+Executing the task
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(246).png)
+
+Verifying the execution was saved
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(247).png)
+
+Searching by name
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(251).png)
+
+Deleteing the task
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(252).png)
+
+Deleted
+![image_alt](https://github.com/Arsalan975/kaiburr_project_task_1/blob/7b12ef5b912d1e8e227064b18fa31fb40b0fbb23/Screenshot%20(253).png)
